@@ -4,7 +4,7 @@ from odoo import models, fields
 
 
 class segundaclasealex(models.Model):
-     _name = 'Musica.rockmetal'
+     _name = 'segundaclasealex.rockmetal'
      _description = 'esta clase almacena generos musicales'
 
      Nombre = fields.Char()
